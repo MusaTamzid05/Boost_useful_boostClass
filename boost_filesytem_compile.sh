@@ -6,7 +6,7 @@
 # Compiles all the header and cpp files is given director using g++
 
 
-# if one file is given ,then thats the output
+# if one file is given ,then thats the output file
 
 
 output_file_name='output'
